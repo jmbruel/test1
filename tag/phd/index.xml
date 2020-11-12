@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | Jean-Michel Bruel</title>
+    <link>/tag/phd/</link>
+      <atom:link href="/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 - ACDC. Last update: 19/10/2020</copyright><lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>phd</title>
+      <link>/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>Méthodologie de conception et de mise en oeuvre au niveau système de la S&amp;D pour les RCES dynamiquement reconfigurables</title>
+      <link>/people/jacob/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/people/jacob/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
