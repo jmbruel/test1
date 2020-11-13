@@ -1,0 +1,40 @@
+= JMB's web site
+:icons: font
+:mypages: https://smart-researchteam.netlify.com
+
+image:https://api.netlify.com/api/v1/badges/6a61fdf2-0b2c-404c-a4c7-cc61882650da/deploy-status[Netlify Status, link="https://app.netlify.com/sites/smart-researchteam/deploys"]
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+This repo hosts the SM@RT team web pages
+
+WARNING: Work in progress!!
+
+The deployed version is here: {mypages}.
+
+== To add content
+
+Students::
+
+- Go to the `content/authors` folder and add a folder with a `.md+` or `.adoc` file with your infos (see other folders).
+- upload your picture in this folder with the `avatar.jpg` name (also works with `.png`, etc.)
+- commit & submit a pull request
+
+Other content (project, publication, talk)::
+
+- Go to the `content/xxx` folder (e.g., `content/talk`)
+- Follow the existing naming rule (if any) to create a new entry file,
+by copying an existing one to get the attributes to fill
+
+== Tools
+
+This web site uses:
+
+- https://golang.org/[go]
+- https://gohugo.io/[hugo] (`brew install hugo`)
