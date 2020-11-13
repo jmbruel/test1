@@ -1,4 +1,4 @@
-= JMB's web site
+= SM@RT Research Team Web Site
 :icons: font
 :mypages: https://smart-researchteam.netlify.com
 
